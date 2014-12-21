@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+To change this template, choose Tools | Templates
+and open the template in the editor.
+-->
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+    <head>
+        <title>SVG JS Animations v 0.0.3</title>
+    </head>
+    <body>
+        <h1>SVG JS Animations v 0.0.1</h1>
+      
+        <svg width="200px" height="150px" xmlns="http://www.w3.org/2000/svg">
+    <rect x="0" y="0" height="150" width="200" fill="black" />
+    <rect id="sky" x="0" y="0" height="150" width="200" fill="blue" />
+  
+ 
+    <script type="text/ecmascript"><![CDATA[
+    frame = 0;
+    function doOneStep() {
+ 
+	sky = document.getElementById("sky");
+	sky.setAttribute("opacity", (100-frame)/100); /* L'opacité varie de 1.0 à 0.0 */
+ 
+	if (frame++ <= 100)
+	    setTimeout(doOneStep, 40);
+    }
+ 
+    doOneStep(); /* démarre l'animation */
+    ]]>
+    </script>
+</svg>
+        
+    </body>
+</html>

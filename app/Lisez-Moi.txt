@@ -1,0 +1,7 @@
+Ajouter la base de donnee qui se situe ici:
+
+\UniServerZ\www\carCake\app\DB
+
+dans PHP my Admin en l'important
+
+elle se nomme 'car' tout simplement

@@ -1,0 +1,384 @@
+# LANGUAGE translation of CakePHP Application
+# Copyright YEAR NAME <EMAIL@ADDRESS>
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"POT-Creation-Date: 2014-10-23 19:53+0100\n"
+"PO-Revision-Date: 2014-10-30 14:32-0500\n"
+"Last-Translator: \n"
+"Language-Team:  <EMAIL@ADDRESS>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.10\n"
+"Language: fre\n"
+
+#: Controller/DetailsController.php:37;72;103
+msgid "Invalid detail"
+msgstr "Detail invalide"
+
+#: Controller/DetailsController.php:52;76
+msgid "The detail has been saved"
+msgstr "Les detail ont ete sauvegarder"
+
+#: Controller/DetailsController.php:55;79
+msgid "The detail could not be saved. Please, try again."
+msgstr ""
+
+#: Controller/DetailsController.php:106
+msgid "Detail deleted"
+msgstr ""
+
+#: Controller/DetailsController.php:109
+msgid "Detail was not deleted"
+msgstr ""
+
+#: Controller/UsersController.php:37;70;99;127;160;189
+msgid "Invalid user"
+msgstr "Utilisateur invalide"
+
+#: Controller/UsersController.php:52;74;142;164
+msgid "The user has been saved"
+msgstr "Lutilisateur a ete sauvegarder"
+
+#: Controller/UsersController.php:55;77;145;167
+msgid "The user could not be saved. Please, try again."
+msgstr ""
+
+#: Controller/UsersController.php:102;192
+msgid "User deleted"
+msgstr ""
+
+#: Controller/UsersController.php:105;195
+msgid "User was not deleted"
+msgstr "utilisateur na pas ete supprimer"
+
+#: Controller/VehiculesController.php:45;78;107
+msgid "Invalid vehicule"
+msgstr "Vehicule invalide"
+
+#: Controller/VehiculesController.php:60;82
+msgid "The vehicule has been saved"
+msgstr "Le vehicule a ete sauvegarder"
+
+#: Controller/VehiculesController.php:63;85
+msgid "The vehicule could not be saved. Please, try again."
+msgstr ""
+
+#: Controller/VehiculesController.php:110
+msgid "Vehicule deleted"
+msgstr "Vehicule supprimer"
+
+#: Controller/VehiculesController.php:113
+msgid "Vehicule was not deleted"
+msgstr "Vehicule na pas ete supprimer"
+
+#: View/Details/add.ctp:9 View/Details/admin_add.ctp:9
+#: View/Details/admin_edit.ctp:10 View/Details/admin_view.ctp:11
+#: View/Details/edit.ctp:10 View/Details/view.ctp:11
+msgid "List Details"
+msgstr "Liste de Details"
+
+#: View/Details/add.ctp:10 View/Details/admin_add.ctp:10
+#: View/Details/admin_edit.ctp:11 View/Details/admin_index.ctp:10
+#: View/Details/admin_view.ctp:13 View/Details/edit.ctp:11
+#: View/Details/index.ctp:10 View/Details/view.ctp:13 View/Vehicules/add.ctp:9
+#: View/Vehicules/admin_add.ctp:9 View/Vehicules/admin_edit.ctp:10
+#: View/Vehicules/admin_view.ctp:11 View/Vehicules/edit.ctp:10
+#: View/Vehicules/view.ctp:11
+msgid "List Vehicules"
+msgstr "Liste de Vehicule"
+
+#: View/Details/add.ctp:11 View/Details/edit.ctp:12 View/Details/index.ctp:11
+#: View/Details/view.ctp:14 View/Vehicules/admin_index.ctp:9
+#: View/Vehicules/admin_view.ctp:12 View/Vehicules/index.ctp:9
+#: View/Vehicules/view.ctp:12
+msgid "New Vehicule"
+msgstr "Nouveau Vehicule"
+
+#: View/Details/add.ctp:20
+msgid "Add Detail"
+msgstr "Ajouter Detail"
+
+#: View/Details/admin_add.ctp:11 View/Details/admin_edit.ctp:12
+#: View/Details/admin_index.ctp:11 View/Details/admin_view.ctp:14
+msgid "New Vehicules"
+msgstr "Nouveau Vehicule"
+
+#: View/Details/admin_add.ctp:20
+msgid "Admin Add Detail"
+msgstr "Utilisateur ajout detail"
+
+#: View/Details/admin_edit.ctp:9 View/Details/admin_index.ctp:53
+#: View/Details/edit.ctp:9 View/Details/index.ctp:53
+#: View/Users/admin_edit.ctp:9 View/Users/admin_index.ctp:47
+#: View/Users/edit.ctp:9 View/Users/index.ctp:47
+#: View/Vehicules/admin_edit.ctp:9 View/Vehicules/admin_index.ctp:49
+#: View/Vehicules/edit.ctp:9 View/Vehicules/index.ctp:49
+msgid "Delete"
+msgstr "Supprimer"
+
+#: View/Details/admin_edit.ctp:9 View/Details/admin_index.ctp:53
+#: View/Details/admin_view.ctp:10 View/Details/edit.ctp:9
+#: View/Details/index.ctp:53 View/Details/view.ctp:10
+#: View/Users/admin_edit.ctp:9 View/Users/admin_index.ctp:47
+#: View/Users/admin_view.ctp:10 View/Users/edit.ctp:9 View/Users/index.ctp:47
+#: View/Users/view.ctp:10 View/Vehicules/admin_edit.ctp:9
+#: View/Vehicules/admin_index.ctp:49 View/Vehicules/admin_view.ctp:10
+#: View/Vehicules/edit.ctp:9 View/Vehicules/index.ctp:49
+#: View/Vehicules/view.ctp:10
+msgid "Are you sure you want to delete # %s?"
+msgstr "Etes vous sur de vouloir delete # %s?"
+
+#: View/Details/admin_edit.ctp:21
+msgid "Admin Edit Detail"
+msgstr ""
+
+#: View/Details/admin_index.ctp:9 View/Details/admin_view.ctp:12
+#: View/Details/index.ctp:9 View/Details/view.ctp:12
+msgid "New Detail"
+msgstr "Nouveau Details"
+
+#: View/Details/admin_index.ctp:22 View/Details/index.ctp:22
+msgid "Details"
+msgstr "Details"
+
+#: View/Details/admin_index.ctp:35 View/Details/index.ctp:35
+#: View/Users/admin_index.ctp:32 View/Users/index.ctp:32
+#: View/Vehicules/admin_index.ctp:33 View/Vehicules/index.ctp:33
+msgid "Actions"
+msgstr "Actions"
+
+#: View/Details/admin_index.ctp:51 View/Details/index.ctp:51
+#: View/Users/admin_index.ctp:45 View/Users/index.ctp:45
+#: View/Vehicules/admin_index.ctp:47 View/Vehicules/index.ctp:47
+msgid "View"
+msgstr "Vue"
+
+#: View/Details/admin_index.ctp:52 View/Details/index.ctp:52
+#: View/Users/admin_index.ctp:46 View/Users/index.ctp:46
+#: View/Vehicules/admin_index.ctp:48 View/Vehicules/index.ctp:48
+msgid "Edit"
+msgstr "Modifier"
+
+#: View/Details/admin_index.ctp:64 View/Details/index.ctp:64
+#: View/Users/admin_index.ctp:58 View/Users/index.ctp:58
+#: View/Vehicules/admin_index.ctp:60 View/Vehicules/index.ctp:60
+msgid ""
+"Page {:page} of {:pages}, showing {:current} records out of {:count} total, "
+"starting on record {:start}, ending on {:end}"
+msgstr ""
+
+#: View/Details/admin_index.ctp:71 View/Details/index.ctp:71
+#: View/Users/admin_index.ctp:65 View/Users/index.ctp:65
+#: View/Vehicules/admin_index.ctp:67 View/Vehicules/index.ctp:67
+msgid "Previous"
+msgstr "Precedent"
+
+#: View/Details/admin_index.ctp:73 View/Details/index.ctp:73
+#: View/Users/admin_index.ctp:67 View/Users/index.ctp:67
+#: View/Vehicules/admin_index.ctp:69 View/Vehicules/index.ctp:69
+msgid "Next"
+msgstr "Suivant"
+
+#: View/Details/admin_view.ctp:9 View/Details/edit.ctp:21
+#: View/Details/view.ctp:9
+msgid "Edit Detail"
+msgstr "Modifier Detail"
+
+#: View/Details/admin_view.ctp:10 View/Details/view.ctp:10
+msgid "Delete Detail"
+msgstr "Detail supprimer"
+
+#: View/Details/admin_view.ctp:26 View/Details/view.ctp:26
+msgid "Detail"
+msgstr "Detail"
+
+#: View/Details/admin_view.ctp:31 View/Details/view.ctp:31
+#: View/Vehicules/admin_view.ctp:29 View/Vehicules/view.ctp:29
+msgid "ID"
+msgstr ""
+
+#: View/Details/admin_view.ctp:36 View/Details/view.ctp:36
+msgid "IMAGE"
+msgstr ""
+
+#: View/Details/admin_view.ctp:41 View/Details/view.ctp:41
+msgid "AJOUT"
+msgstr ""
+
+#: View/Details/admin_view.ctp:46 View/Details/view.ctp:46
+msgid "COMMENTAIRE"
+msgstr ""
+
+#: View/Details/admin_view.ctp:51 View/Details/view.ctp:51
+msgid "AUTEUR"
+msgstr ""
+
+#: View/Details/admin_view.ctp:56 View/Details/view.ctp:56
+msgid "COM VISIBLE"
+msgstr ""
+
+#: View/Details/admin_view.ctp:61 View/Vehicules/admin_index.ctp:20
+#: View/Vehicules/index.ctp:20
+msgid "Vehicules"
+msgstr "Vehicules"
+
+#: View/Details/view.ctp:61 View/Vehicules/admin_view.ctp:24
+#: View/Vehicules/view.ctp:24
+msgid "Vehicule"
+msgstr "Vehicule"
+
+#: View/Users/add.ctp:9 View/Users/admin_add.ctp:9
+#: View/Users/admin_edit.ctp:10 View/Users/admin_view.ctp:11
+#: View/Users/edit.ctp:10 View/Users/view.ctp:11
+msgid "List Users"
+msgstr ""
+
+#: View/Users/add.ctp:18
+msgid "Add User"
+msgstr "Ajout Dutilisateur"
+
+#: View/Users/admin_add.ctp:18
+msgid "Admin Add User"
+msgstr "administrateur ajout utilisateur"
+
+#: View/Users/admin_edit.ctp:19
+msgid "Admin Edit User"
+msgstr ""
+
+#: View/Users/admin_index.ctp:9 View/Users/admin_view.ctp:12
+#: View/Users/index.ctp:9 View/Users/view.ctp:12
+msgid "New User"
+msgstr "Nouveau utilisateur"
+
+#: View/Users/admin_index.ctp:20 View/Users/index.ctp:20
+msgid "Users"
+msgstr "Utilisateur"
+
+#: View/Users/admin_view.ctp:9 View/Users/edit.ctp:19 View/Users/view.ctp:9
+msgid "Edit User"
+msgstr "Modifier utilisateur"
+
+#: View/Users/admin_view.ctp:10 View/Users/view.ctp:10
+msgid "Delete User"
+msgstr "Supprimer Utilisateur"
+
+#: View/Users/admin_view.ctp:24 View/Users/view.ctp:24
+msgid "User"
+msgstr "Utilisateur"
+
+#: View/Users/admin_view.ctp:29 View/Users/view.ctp:29
+msgid "Id"
+msgstr ""
+
+#: View/Users/admin_view.ctp:34 View/Users/view.ctp:34
+msgid "Username"
+msgstr "Nom dutilisateur"
+
+#: View/Users/admin_view.ctp:39 View/Users/view.ctp:39
+msgid "Password"
+msgstr "Mot de Passe"
+
+#: View/Users/admin_view.ctp:44 View/Users/view.ctp:44
+msgid "Role"
+msgstr "Role"
+
+#: View/Users/admin_view.ctp:49 View/Users/view.ctp:49
+msgid "Created"
+msgstr "Cree"
+
+#: View/Users/admin_view.ctp:54 View/Users/view.ctp:54
+msgid "Modified"
+msgstr "Modifier"
+
+#: View/Vehicules/add.ctp:18
+msgid "Add Vehicule"
+msgstr ""
+
+#: View/Vehicules/admin_add.ctp:18
+msgid "Admin Add Vehicule"
+msgstr ""
+
+#: View/Vehicules/admin_edit.ctp:19
+msgid "Admin Edit Vehicule"
+msgstr ""
+
+#: View/Vehicules/admin_view.ctp:9 View/Vehicules/edit.ctp:19
+#: View/Vehicules/view.ctp:9
+msgid "Edit Vehicule"
+msgstr "Vehicule Modifier"
+
+#: View/Vehicules/admin_view.ctp:10 View/Vehicules/view.ctp:10
+msgid "Delete Vehicule"
+msgstr "Vehicule supprimer"
+
+#: View/Vehicules/admin_view.ctp:34 View/Vehicules/view.ctp:34
+msgid "KILO"
+msgstr ""
+
+#: View/Vehicules/admin_view.ctp:39 View/Vehicules/view.ctp:39
+msgid "RETOUR"
+msgstr ""
+
+#: View/Vehicules/admin_view.ctp:44 View/Vehicules/view.ctp:44
+msgid "MOTEUR"
+msgstr ""
+
+#: View/Vehicules/admin_view.ctp:49 View/Vehicules/view.ctp:49
+msgid "PASSAGER"
+msgstr ""
+
+#: View/Vehicules/admin_view.ctp:54 View/Vehicules/view.ctp:54
+msgid "NOM"
+msgstr ""
+
+#: View/Vehicules/admin_view.ctp:59 View/Vehicules/view.ctp:59
+msgid "EMAIL"
+msgstr ""
+
+#: Model/User.php:validation for field username
+msgid "Un nom d'utilisateur est requis"
+msgstr ""
+
+#: Model/User.php:validation for field password
+msgid "Un mot de passe est requis"
+msgstr ""
+
+#: Model/User.php:validation for field role
+msgid "Merci de rentrer un rôle valide"
+msgstr ""
+
+#: View/Errors/error400.ctp:19 View/Errors/error500.ctp:19
+msgid "Error"
+msgstr ""
+
+#: View/Errors/error400.ctp:21
+msgid "The requested address %s was not found on this server."
+msgstr ""
+
+#: View/Errors/error500.ctp:20
+msgid "An Internal Error Has Occurred."
+msgstr ""
+
+#: View/Layouts/default.ctp:17 View/Layouts/error.ctp:17
+#: View/Themed/Cakestrap/Layouts/default.ctp:19
+msgid "CakePHP: the rapid development php framework"
+msgstr ""
+
+#: View/Layouts/default.ctp:18
+msgid "CakePHP %s"
+msgstr ""
+
+#: View/Pages/home.ctp:14
+msgid "Bienvenue sur la Gestion de Location de voiture"
+msgstr ""
+
+#: View/Pages/home.ctp:25
+msgid "URL rewriting is not properly configured on your server."
+msgstr ""
+
+#: webroot/test.php:93
+msgid "Debug setting does not allow access to this url."
+msgstr ""
